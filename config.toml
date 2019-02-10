@@ -1,0 +1,4 @@
+baseURL = "http://aistaqiemsy.org/"
+languageCode = "en-us"
+title = "Belajar Hugo V1"
+theme = "vncnt-hugo"
