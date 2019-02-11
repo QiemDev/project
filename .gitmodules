@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/QiemDev/project.git
+	url = https://github.com/QiemDev/QiemDev.github.io.git
 	branch = master
